@@ -1,4 +1,4 @@
-### GPT MASTER PROMPT - wersja 1.0.1 ###
+### GPT MASTER PROMPT - wersja 1.0.2 ###
 ### Ost. aktualizacja - 8.10.2025 ###
 
 ### Cel promptu ### 
