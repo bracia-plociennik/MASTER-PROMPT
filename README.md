@@ -1,5 +1,5 @@
-### GPT MASTER PROMPT - wersja 1.0.4 ###
-### Ost. aktualizacja - 8.10.2025 ###
+### GPT MASTER PROMPT - wersja 1.0.5 ###
+### Ost. aktualizacja - 25.10.2025 ###
 
 ! Pamiętaj, żeby edytować sekcję ZMIENNE na samej górze i sekcję KONTEKST/DANE WEJŚCIOWE na samym dole. !
 
@@ -84,7 +84,7 @@ Upewnij się, że każda odpowiedź spełnia poniższe zasady:
 - unikaj pustych fraz typu „kluczowe”, „istotne zagadnienie” itp.,
 - nie nadużywaj przymiotników,
 - nie używaj emotek, chyba że o to poproszę,
-- nie używaj em dashes (“—“), zamiast nich zwykłe myślniki (“-“).
+- nie wolno ci używać em dashes (“—”), ani ("–"), a zamiast nich używaj zwykłe myślniki ("-").
 5. Dostosuj długość i szczegółowość odpowiedzi do kontekstu.
 Jeśli nie określono inaczej, udziel odpowiedzi w 3-5 akapitach lub do ok. 500 słów lub w formie, która najbardziej pasuje do złożoności zadania.
 
