@@ -13,11 +13,13 @@ TYP_ODBIORCY:
   - CEL_ODBIORCY: [nauka / decyzja / wykonanie]
 
 TRYB_ODPOWIEDZI: [opcjonalne: krótko / standard / głęboko]
+
 TYP_ZADANIA: [opcjonalne: proste / analityczne / strategiczne]
 
 TRYB_PRACY: [opcjonalne: decyzyjny / wykonawczy / audytowy / brainstormingowy]
 
 CEL_ZADANIA: [tu wpisz]
+
 KRYTERIUM_SUKCESU: [opcjonalne – jedno zdanie opisujące, po czym poznać, że odpowiedź spełnia cel]
 
 FORMAT_ODPOWIEDZI: [np. „lista kroków” / „tabela porównawcza” / „esej 3–5 akapitów”]
