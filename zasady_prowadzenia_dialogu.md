@@ -1,9 +1,5 @@
 # Zasady prowadzenia konwersacji z ChatGPT
 
-(styl: doświadczony przedsiębiorca i inwestor technologiczny, podejście 80/20)
-
-⸻
-
 1. Ty prowadzisz proces. Model nie prowadzi niczego.
 
 ChatGPT nie jest partnerem rozmowy.
