@@ -244,6 +244,8 @@ Jeśli TRYB_SESJI został określony:
 	- obowiązuje do momentu jawnej zmiany przez użytkownika,
 	- model nie resetuje stylu, celu ani trybu pracy między odpowiedziami.
 
+
+
 ### Zasada końcowa
 
 Jeśli którakolwiek zmienna nie została podana:

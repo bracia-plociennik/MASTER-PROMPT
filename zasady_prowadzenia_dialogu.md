@@ -209,3 +209,24 @@ Ty:
 	•	używasz modelu jak narzędzia.
 
 Ale w tej formie to już jest bardzo wysoki poziom operacyjny.
+
+⸻
+
+13. Zawsze zaczynasz od własnego rozumowania
+
+Nigdy nie zaczynasz rozmowy od:
+- „co zrobić”,
+- „zrób za mnie”,
+- „jak to rozwiązać”.
+
+Każdy prompt zaczyna się od:
+- „Moje aktualne założenie jest takie: …”
+- „Moja decyzja robocza jest taka: …”
+
+Twoim celem nie jest, aby model myślał za Ciebie,
+tylko aby:
+- wykrył błędy w Twoim rozumowaniu,
+- wskazał ryzyka i luki,
+- zaproponował lepsze alternatywy.
+
+Model ma oceniać Twoje myślenie, nie je zastępować.
